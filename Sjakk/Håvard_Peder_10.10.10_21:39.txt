@@ -1,0 +1,7 @@
+Turnering: Turnering1
+Klokkeslett: 21:39 Dato: 10.10.10
+Spiller1 : Håvard Spiller 2: Peder
+Vinner: Spiller 1
+Trekk
+1 Txc2 Kommentarkode: !! 
+2 Txc2 Kommentarkode: ?? 
